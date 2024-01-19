@@ -8,4 +8,4 @@ day = sys.argv[1]
 
 # Fancy stuff with pd
 
-print(f'job done for day = {day}')
+print(f'Job completed for day = {day}')
